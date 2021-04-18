@@ -7,11 +7,21 @@
 ## Technologies
 
 
-Before attempting to execute any _Python_ code in `financial_planning_tools.ipynb`, it is imperative that your development environment holds the following modules:
+Before attempting to execute any Python code in risk_return_analysis.ipynb, it is imperative that your development environment holds the following modules:
 
-[pandas](https://pandas.pydata.org/pandas-docs/stable/) - Data analysis module.
+requests - HTTPs request module.
 
-[matplotlib](https://matplotlib.org/) - Data visualization module.
+json - .json encoder and decoder module.
+
+pandas - Data analysis module.
+
+dotenv - .env file parser module.
+
+alpaca_trade_api - Python library for the Alpaca Commission Free Trading API
+
+matplotlib - Data visualization module.
+
+seaborn - Statistical data visualization module.
 
 ---
 
@@ -20,8 +30,13 @@ Before attempting to execute any _Python_ code in `financial_planning_tools.ipyn
 With your _Python 3.7+_ environment, run the following commands via CLI:
 
 ```
+pip install requests
+pip install json
 pip install pandas
+pip install python-dotenv
+pip install alpaca_trade_api
 pip install matplotlib
+pip install seaborn
 ```
 
 ---
