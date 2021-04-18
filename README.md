@@ -48,7 +48,7 @@ pip install matplotlib
 
 ## Contributors
 
-New development created by Aaron C. Montano. **Code from 'Uploaded Starter Files' commit originates from UC Berkeley Extension and I do not claim original ownership nor scholarship**.
+New development created by SCientia Capital. **Code from 'Uploaded Starter Files' commit originates from UC Berkeley Extension and I do not claim original ownership nor scholarship**.
 
 ---
 
