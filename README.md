@@ -9,19 +9,19 @@
 
 Before attempting to execute any Python code in risk_return_analysis.ipynb, it is imperative that your development environment holds the following modules:
 
-requests - HTTPs request module.
+[requests](https://2.python-requests.org/en/master/) - HTTPs request module
 
-json - .json encoder and decoder module.
+[json](https://docs.python.org/3/library/json.html) - .json encoder and decoder module
 
-pandas - Data analysis module.
+[pandas](https://pandas.pydata.org/pandas-docs/stable/) - Data analysis module
 
-dotenv - .env file parser module.
+[dotenv](https://pypi.org/project/python-dotenv/) - .env file parser module
 
-alpaca_trade_api - Python library for the Alpaca Commission Free Trading API
+[alpaca_trade_api](https://pypi.org/project/alpaca-trade-api/) - Python library for the Alpaca Commission Free Trading API
 
-matplotlib - Data visualization module.
+[matplotlib](https://matplotlib.org/) - Data visualization module
 
-seaborn - Statistical data visualization module.
+[seaborn](https://seaborn.pydata.org/) - Statistical data visualization module
 
 ---
 
